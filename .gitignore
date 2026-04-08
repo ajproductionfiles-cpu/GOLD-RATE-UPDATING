@@ -1,0 +1,3 @@
+storage/portal.sqlite
+public/uploads/*
+!public/uploads/.gitkeep
